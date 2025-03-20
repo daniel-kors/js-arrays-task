@@ -12,3 +12,4 @@ const getWeekends = (setting) => {
 export { getWeekends };
 
 // END
+
